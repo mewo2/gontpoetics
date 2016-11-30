@@ -1,0 +1,174 @@
+hydrogen
+helium
+lithium
+beryllium
+boron
+carbon
+nitrogen
+oxygen
+fluorine
+neon
+sodium
+magnesium
+aluminum
+silicon
+phosphorus
+sulfur
+chlorine
+argon
+water
+ammonia
+phosphene
+carbonate
+silicate
+oxide
+sand
+rock
+magma
+a star
+a planet
+a satellite
+a structure
+an artifact
+a habitat
+a device
+a tool
+a weapon
+a city
+a settlement
+information
+knowledge
+time
+space
+flatness
+energy
+heat
+velocity
+acceleration
+mass
+momentum
+pressure
+force
+width
+height
+length
+density
+a vehicle
+physics
+mathematics
+chemistry
+biology
+astronomy
+geology
+air
+the atmosphere
+magnetism
+electricity
+an electron
+a proton
+a neutron
+truth
+falsity
+goodness
+badness
+life
+an absence
+absorption
+an abundance
+acceptance
+accuracy
+adjustment
+advancement
+agriculture
+an aircraft
+anatomy
+an apparatus
+ascent
+a basis
+a battery
+a bone
+brightness
+a collision
+combustion
+correlation
+a cylinder
+darkness
+a definition
+departure
+differentiation
+dioxide
+dynamics
+an enclosure
+environment
+an equation
+the equator
+an error
+estimation
+fertilization
+a formula
+fragmentation
+frequency
+function
+fusion
+glucose
+grouping
+ignition
+illness
+immunity
+an intersection
+an interval
+iteration
+logic
+machinery
+a majority
+a matrix
+mechanics
+mutation
+a nucleus
+orientation
+a paradox
+a pendulum
+projection
+a protein
+radiance
+a reaction
+recursion
+regularity
+relativity
+scarcity
+a semiconductor
+simplicity
+a simulation
+a statement
+a stimulus
+syntax
+a system
+technology
+toxicity
+translation
+unification
+vicinity
+a volcano
+voltage
+warmth
+a word
+a sentence
+language
+meaning
+a point
+a line
+a triangle
+a quadrilateral
+a square
+a pentagon
+a rhombus
+a trapezium
+a curve
+a manifold
+a circle
+a parabola
+a hyperbola
+an ellipse
+a locus
+a limb
+a brain

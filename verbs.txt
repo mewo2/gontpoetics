@@ -1,0 +1,102 @@
+adds
+subtracts
+multiplies
+divides
+equals
+is less than
+is greater than
+orbits
+contains
+creates
+destroys
+penetrates
+enters
+dissolves in
+metabolises
+reacts with
+attracts
+repels
+consumes
+is adjacent to
+accepts
+agrees with
+allows
+appears as
+arranges
+attaches to
+balances
+boils
+calculates
+causes
+changes
+closes
+collects
+connects to
+consists of
+continues
+copies
+counts
+covers
+damages
+decays into
+delays
+depends on
+describes
+detects
+develops into
+disagrees with
+doubles
+expands
+explains
+extends
+fills
+folds
+forms
+gathers
+happens to
+identifies
+improves
+includes
+increases
+influences
+joins
+labels
+lightens
+marks
+matches
+measures
+melts
+mixes with
+moves
+names
+needs
+observes
+opens
+permits
+produces
+provides
+punctures
+pushes
+radiates
+raises
+reaches
+receives
+records
+reduces
+reflects
+releases
+remains
+removes
+reproduces
+separates
+starts
+stores
+strengthens
+supports
+tests
+transports
+unites
+uses
+warms
+intersects
+is parallel to
